@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1576438418 source:c:\users\yvson\documents\roteiro_2\questao_5\main.cpp
+	<iostream>
+	"Trabalhador.h"
+	"TrabalhadorAssalariado.h"
+	"TrabalhadorPorHora.h"
+
+1576437675 source:c:\users\yvson\documents\roteiro_2\questao_5\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1576437675 c:\users\yvson\documents\roteiro_2\questao_5\include\trabalhador.h
+	<string>
+
+1576437240 source:c:\users\yvson\documents\roteiro_2\questao_5\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+	"Trabalhador.h"
+
+1576437239 c:\users\yvson\documents\roteiro_2\questao_5\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+
+1576438105 source:c:\users\yvson\documents\roteiro_2\questao_5\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+	"Trabalhador.h"
+
+1576435137 c:\users\yvson\documents\roteiro_2\questao_5\include\trabalhadorporhora.h
+	"Trabalhador.h"
+

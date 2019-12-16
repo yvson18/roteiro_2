@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1576417444 source:c:\users\yvson\documents\roteiro_2\questao_3\main.cpp
+	<iostream>
+	"Consultor.h"
+
+1576415883 source:c:\users\yvson\documents\roteiro_2\questao_3\src\funcionario.cpp
+	"Funcionario.h"
+
+1576416964 c:\users\yvson\documents\roteiro_2\questao_3\include\funcionario.h
+	<string>
+
+1576417461 source:c:\users\yvson\documents\roteiro_2\questao_3\src\consultor.cpp
+	"Consultor.h"
+	"Funcionario.h"
+
+1576417473 c:\users\yvson\documents\roteiro_2\questao_3\include\consultor.h
+	"Funcionario.h"
+

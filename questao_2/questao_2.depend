@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1576402028 source:c:\users\yvson\documents\roteiro_2\questao_2\main.cpp
+	<iostream>
+	<string>
+	"Pessoa.h"
+
+1576400796 source:c:\users\yvson\documents\roteiro_2\questao_2\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+	<sstream>
+
+1576400796 c:\users\yvson\documents\roteiro_2\questao_2\include\endereco.h
+	<string>
+
+1576401050 source:c:\users\yvson\documents\roteiro_2\questao_2\src\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+
+1576401069 c:\users\yvson\documents\roteiro_2\questao_2\include\pessoa.h
+	<string>
+	"Endereco.h"
+

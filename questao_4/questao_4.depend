@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1576443026 source:c:\users\yvson\documents\roteiro_2\questao_4\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1576443145 c:\users\yvson\documents\roteiro_2\questao_4\include\figurageometrica.h
+	<string>
+
+1576443026 c:\users\yvson\documents\roteiro_2\questao_4\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1576443025 c:\users\yvson\documents\roteiro_2\questao_4\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1576443025 c:\users\yvson\documents\roteiro_2\questao_4\include\circulo.h
+	"FiguraGeometrica.h"
+
+1576443026 source:c:\users\yvson\documents\roteiro_2\questao_4\src\circulo.cpp
+	"Circulo.h"
+	"FiguraGeometrica.h"
+
+1576443145 source:c:\users\yvson\documents\roteiro_2\questao_4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1576443064 source:c:\users\yvson\documents\roteiro_2\questao_4\src\quadrado.cpp
+	"Quadrado.h"
+	"FiguraGeometrica.h"
+
+1576443026 source:c:\users\yvson\documents\roteiro_2\questao_4\src\triangulo.cpp
+	"Triangulo.h"
+	"FiguraGeometrica.h"
+
